@@ -15,6 +15,11 @@ Project made to exercise search of a string in an array of data. As the user typ
 ![App Screenshot](.github/home.png)
 
 
+## Demo
+
+[Search bar demo](https://search-bar-react.vercel.app/)
+
+
 ## Run Locally
 
 Clone the project
@@ -40,11 +45,6 @@ Start the server
 ```bash
   yarn start
 ```
-
-
-## Demo
-
-[Search bar demo](https://search-bar-react.vercel.app/)
 
 
 ## License
