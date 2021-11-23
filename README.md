@@ -1,7 +1,7 @@
 
 # Search bar exercise
 
-Project made to exercise search of a string in an array of data. As the user types each character, the display show all valid choices for the next character and list of possible matching items.
+Project made to exercise search of a string in an array of [data](https://www.cp.pt/passageiros/pt/consultar-horarios/estacoes). As the user types each character, the display show all valid choices for the next character and list of possible matching items.
 
 
 ## Tecnologies and libs
